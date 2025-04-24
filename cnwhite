@@ -1,16 +1,3 @@
-||eastwestec.com
-||eastwestec.cn
-||baidu.com
-||baidustatic.com
-||jd.com
-||360buyimg.com
-||taobao.com
-||alicdn.com
-||hdslb.com
-||bilibili.com
-||bdstatic.com
-||hupu.com
-||127.0.0.1
-||192.168.1.1
-||10.1.1.1
-||mmstat.com
+payload:
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amazonaws.com
