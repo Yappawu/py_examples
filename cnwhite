@@ -1,3 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,amazon.ca
+  - DOMAIN-SUFFIX,amazon.co.uk
+  - DOMAIN-SUFFIX,amazon.de
