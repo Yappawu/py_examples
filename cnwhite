@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,amazon.ca
   - DOMAIN-SUFFIX,amazon.co.uk
   - DOMAIN-SUFFIX,amazon.de
+  - DOMAIN-SUFFIX,amazon-adsystem.com
